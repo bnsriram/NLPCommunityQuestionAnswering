@@ -16,21 +16,26 @@ B. Question-Question Similarity: given the ne​w question, rerank all similar q
 
 http://alt.qcri.org/semeval2016/task3/
 
+
+### Installation
+
 What things you need to install the software and how to install them
 
 ```
-Python packages - pandas
+* Install Anaconda for Python 2.7 Python
 
-pip install package-name 
+pip install package-name (or) 
+pip install -r requirements.txt in your shell
+
 
 ```
-### Data XML 
+### Data XML 1 
 
 * cqa_task3.xml -> Contains the xml data for the first XML dataset ~ Question -> Comments 
 * cqa_task3.json -> Converted XML to json
 * The code for data cleaning is in [Datacleaning1.ipynb](https://github.com/bnsriram/NLPCommunityQuestionAnswering/blob/master/Datacleaning1.ipynb)
 
-
+### Data XML 2
 
 * Q2Q.xml -> Contains the xml data for the second XML dataset ~ Org -> Question -> Comments
 * Q2Q.json -> Converted XML to json 
