@@ -26,6 +26,9 @@ Python packages - pandas
 ## Authors
 
 * **Murali Krishnan** - [murali129](https://github.com/murali129)
+* **Naveen** - [murali129](https://github.com/naveenvkn)
+* **Sriram Jegadeesh** - [murali129](https://github.com/sriramjegs)
+
 
 ## Acknowledgments
 
