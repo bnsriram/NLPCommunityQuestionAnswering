@@ -1,0 +1,12 @@
+Kelp	subtask_A_primary	 0.7919
+ConvKN	subtask_A_primary	 0.7766
+SemanticZ	subtask_A_primary	 0.7758
+ECNU	subtask_A_primary	 0.7728
+SUper_team	subtask_A_primary	 0.7716
+MTE-NN	subtask_A_primary	 0.7644
+SLS	subtask_A_primary	 0.7633
+ITNLP­-AiKF	subtask_A_primary	 0.7152
+ICRC­-HIT	subtask_A_primary	 0.7090
+PMI-cool	subtask_A_primary	 0.6879
+UH-PRHLT	subtask_A_primary	 0.6742
+QAIIIT	subtask_A_primary	 0.6224

@@ -1,0 +1,16 @@
+SLS	subtask_D_primary	 0.4583
+ConvKN	subtask_D_primary	 0.4550
+SLS	subtask_D_contrastive1	 0.4494
+RDI_team	subtask_D_primary	 0.4380
+SLS	subtask_D_contrastive2	 0.4295
+RDI_team	subtask_D_contrastive1	 0.4218
+ConvKN	subtask_D_contrastive2	 0.3998
+QU-IR	subtask_D_contrastive2	 0.3907
+RDI_team	subtask_D_contrastive2	 0.3884
+QU-IR	subtask_D_primary	 0.3863
+ConvKN	subtask_D_contrastive1	 0.3833
+QU-IR	subtask_D_contrastive1	 0.3780
+_baseline	subtask_D_baseline_true	 0.2979
+_baseline	subtask_D_baseline_random	 0.2979
+_baseline	subtask_D_baseline_false	 0.2979
+UPC_USMBA	subtask_D_primary	 0.2909

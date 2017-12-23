@@ -1,0 +1,11 @@
+UH-PRHLT	subtask_B_primary	 0.7670
+ConvKN	subtask_B_primary	 0.7602
+Kelp	subtask_B_primary	 0.7583
+SLS	subtask_B_primary	 0.7555
+ICL00	subtask_B_primary	 0.7511
+SUper_team	subtask_B_primary	 0.7482
+ECNU	subtask_B_primary	 0.7392
+ITNLP­-AiKF	subtask_B_primary	 0.7143
+UniMelb	subtask_B_primary	 0.7020
+overfitting	subtask_B_primary	 0.6968
+QAIIIT	subtask_B_primary	 0.6904

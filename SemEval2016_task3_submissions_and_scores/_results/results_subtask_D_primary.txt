@@ -1,0 +1,5 @@
+SLS	subtask_D_primary	 0.4583
+ConvKN	subtask_D_primary	 0.4550
+RDI_team	subtask_D_primary	 0.4380
+QU-IR	subtask_D_primary	 0.3863
+UPC_USMBA	subtask_D_primary	 0.2909
