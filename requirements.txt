@@ -115,7 +115,7 @@ plotly==2.0.15
 plotutils==0.3.2
 ply==3.8
 pre-commit==0.8.2
-psutil==4.2.0
+psutil==5.6.6
 ptyprocess==0.5
 py==1.4.32
 pyasn1==0.1.9
