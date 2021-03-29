@@ -128,7 +128,7 @@ pycurl==7.43.0
 PyDbLite==3.0.4
 pydot==1.2.3
 pyflakes==1.1.0
-Pygments==2.1.1
+Pygments==2.7.4
 pyOpenSSL==16.1.0
 pyparsing==2.2.0
 pyterminalsize==0.1.0
