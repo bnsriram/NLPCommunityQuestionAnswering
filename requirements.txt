@@ -8,7 +8,7 @@ argcomplete==1.0.0
 aspy.yaml==0.2.2
 astropy==1.1.2
 autopep8==1.2.4
-Babel==2.2.0
+Babel==2.9.1
 backports-abc==0.4
 backports.ssl-match-hostname==3.4.0.2
 beautifulsoup4==4.4.1
