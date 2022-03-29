@@ -103,7 +103,7 @@ numpy==1.10.4
 odo==0.4.2
 openpyxl==2.3.2
 pandas==0.18.0
-paramiko==1.17.1
+paramiko==2.10.1
 partd==0.3.2
 path.py==0.0.0
 patsy==0.4.0
