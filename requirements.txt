@@ -110,7 +110,7 @@ patsy==0.4.0
 pep8==1.7.0
 pexpect==4.0.1
 pickleshare==0.5
-Pillow==3.1.1
+Pillow==9.3.0
 plotly==2.0.15
 plotutils==0.3.2
 ply==3.8
